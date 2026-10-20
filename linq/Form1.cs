@@ -16,5 +16,10 @@ namespace linq
         {
             InitializeComponent();
         }
+
+        private void btnCalcAggregates_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

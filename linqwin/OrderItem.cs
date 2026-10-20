@@ -25,7 +25,7 @@ namespace linqwin
             Quantity = quantity;
         }
 
-        public bool Equals(OrderItem? other)
+        public bool Equals(OrderItem other)
         {
             if (other is null) return false;
             if (ReferenceEquals(this, other)) return true;
