@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq", "linq\linq.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqchetotam", "WindowsFormsApp1\linqchetotam.csproj", "{5C0245C9-5C50-460A-B223-D18E009043E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqwin", "linqwin\linqwin.csproj", "{3E0D510A-99D8-4178-820B-53C8F817C0AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5C0245C9-5C50-460A-B223-D18E009043E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C0245C9-5C50-460A-B223-D18E009043E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C0245C9-5C50-460A-B223-D18E009043E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0D510A-99D8-4178-820B-53C8F817C0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0D510A-99D8-4178-820B-53C8F817C0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0D510A-99D8-4178-820B-53C8F817C0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0D510A-99D8-4178-820B-53C8F817C0AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
