@@ -14,11 +14,12 @@ namespace CorpFleet
         /// Главная точка входа для приложения.
         /// </summary>
         [STAThread]
+
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Database.Initialize();
+            
             Application.Run(new Form1());
         }
     }
