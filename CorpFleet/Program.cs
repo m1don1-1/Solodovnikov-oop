@@ -4,7 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _29._10
+namespace CorpFleet
+
 {
     internal static class Program
     {

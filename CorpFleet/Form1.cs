@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _29._10
+namespace CorpFleet
 {
     public partial class Form1 : Form
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _29._10.Properties
+namespace CorpFleet.Properties
 {
 
 

@@ -1,4 +1,4 @@
-﻿namespace _29._10
+﻿namespace CorpFleet
 {
     partial class Form1
     {
